@@ -29,3 +29,5 @@ I am a passionate and dedicated Computer Science student with a keen interest in
 ## 🎓 Education
 - **Bachelor's Degree in Computer Science** (University of Marília, 2024 - Present)
   - Relevant courses: Data Structures, Algorithms, Artificial Intelligence, etc. 📚
+
+![Sophia Mattos](https://tenor.com/pt-BR/view/rosia-show-by-rock-rosia-show-by-rock-rosia-anime-anime-rosia-gif-11705765498563047956)
