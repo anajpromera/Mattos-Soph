@@ -32,3 +32,5 @@ I am a passionate and dedicated Computer Science student with a keen interest in
 
 ![GIF Animado](https://media.giphy.com/media/fX819mkCQSKoWOmrDy/giphy.gif)
 
+#SEU PERFIL É LINDO
+
