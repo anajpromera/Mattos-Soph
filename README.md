@@ -2,8 +2,13 @@
 
 <br><br>
 
-```python
-print("📄 My CV  ― Computer Science student at the University of Marília")
+```C
+#include <stdio.h>
+
+int main() {
+    printf("📄 My CV  ― Computer Science student at the University of Marília\n");
+    return 0;
+}
 ```
 
 ### About Me
