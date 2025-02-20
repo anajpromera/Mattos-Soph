@@ -1,4 +1,4 @@
-# Sophia Mattos 💻
+# 💻 Sophia Mattos 💻
 
 <br><br>
 
@@ -11,18 +11,18 @@ I am a passionate and dedicated Computer Science student with a keen interest in
 
 ## 🔧 Skills
 
-- __Python__: Intermediate 🐍
-- __Java__: Beginner ☕
-- __C__: Beginner 💻
-- __Power BI__: Beginner 📊
-- __Arduino__: Intermediate 🔌
+- 🐍 __Python__: Intermediate 
+- ☕ __Java__: Beginner 
+- 💻 __C__: Beginner 
+- 📊 __Power BI__: Beginner 
+- 🔌 __Arduino__: Intermediate 
 
 <br><br>
 
 ## 💼 Experience
   
 - **Freelancer** (2023 - 2024)
-  - Worked on a LLM project as a tester 🧑‍💻
+  - 🧑‍💻 Worked on a LLM project as a tester 
 
 <br><br>
 
