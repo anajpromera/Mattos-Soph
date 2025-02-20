@@ -1,9 +1,10 @@
 # 💻 Sophia Mattos 💻
 
 <br><br>
-'''python
-print(" 📄 My CV  ― Computer Science student at the University of Marília")
-'''
+
+```python
+print("📄 My CV  ― Computer Science student at the University of Marília")
+```
 
 ### About Me
 I am a passionate and dedicated Computer Science student with a keen interest in programming and technology. Currently pursuing my studies at the University of Marília, I am constantly improving my skills and learning new technologies. 💡
